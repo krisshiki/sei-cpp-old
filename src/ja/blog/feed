@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://www.sei-cpp.com"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Software Engineering Institute blogs</title>
+ <link>https://www.sei-cpp.com/ja/blog</link>
+ <description></description>
+ <language>ja</language>
+</channel>
+</rss>

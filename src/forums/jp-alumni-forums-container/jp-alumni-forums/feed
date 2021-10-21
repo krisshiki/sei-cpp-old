@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://www.sei-cpp.com"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Software Engineering Institute - JP Alumni Forums</title>
+ <link>https://www.sei-cpp.com/taxonomy/term/13/0</link>
+ <description>Forums for JP Alumni</description>
+ <language>en</language>
+<item>
+ <title>*STICKY* Rules of the Japanese Alumni Forums</title>
+ <link>https://www.sei-cpp.com/forums/sticky-rules-japanese-alumni-forums</link>
+ <description>&lt;p&gt;Only authorized company users are able to post in this forum.&lt;br /&gt;
+Any unauthorized users or posts will be deleted.&lt;/p&gt;
+&lt;p&gt;Please respect each other&#039;s thoughts and opinions. Profanity will not be tolerated.&lt;/p&gt;</description>
+ <comments>https://www.sei-cpp.com/forums/sticky-rules-japanese-alumni-forums#comments</comments>
+ <category domain="https://www.sei-cpp.com/taxonomy/term/13">JP Alumni Forums</category>
+ <pubDate>Tue, 10 Jun 2008 10:31:55 -0700</pubDate>
+ <dc:creator>root</dc:creator>
+ <guid isPermaLink="false">2527 at https://www.sei-cpp.com</guid>
+</item>
+</channel>
+</rss>

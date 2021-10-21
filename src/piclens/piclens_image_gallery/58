@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+      <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss" xmlns:atom="http://www.w3.org/2005/Atom">
+        <channel>
+	  
+    <item>
+      <title>Ko yo P4</title>
+      <link>https://www.sei-cpp.com/sites/default/files/images/Ko yo P4.jpg</link>
+      <media:thumbnail url="https://www.sei-cpp.com/sites/default/files/images/Ko yo P4.thumbnail.jpg"/>
+      <media:content url="https://www.sei-cpp.com/sites/default/files/images/Ko yo P4.jpg"/>
+    </item>
+  
+    <item>
+      <title>Koyou P2</title>
+      <link>https://www.sei-cpp.com/sites/default/files/images/Koyou P2.jpg</link>
+      <media:thumbnail url="https://www.sei-cpp.com/sites/default/files/images/Koyou P2.thumbnail.jpg"/>
+      <media:content url="https://www.sei-cpp.com/sites/default/files/images/Koyou P2.jpg"/>
+    </item>
+  
+    <item>
+      <title>ko yo P3</title>
+      <link>https://www.sei-cpp.com/sites/default/files/images/ko yo P3.jpg</link>
+      <media:thumbnail url="https://www.sei-cpp.com/sites/default/files/images/ko yo P3.thumbnail.jpg"/>
+      <media:content url="https://www.sei-cpp.com/sites/default/files/images/ko yo P3.jpg"/>
+    </item>
+  
+        </channel>
+      </rss>

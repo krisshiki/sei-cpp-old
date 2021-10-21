@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://www.sei-cpp.com"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Software Engineering Institute - Company Forums</title>
+ <link>https://www.sei-cpp.com/ja/taxonomy/term/7/0</link>
+ <description>Forums for Company users</description>
+ <language>ja</language>
+<item>
+ <title>*STICKY* Rules of the Company Users Forums</title>
+ <link>https://www.sei-cpp.com/ja/forums/sticky-rules-company-users-forums</link>
+ <description>Only authorized company users are able to post in this forum.
+Any unauthorized users or posts will be deleted.
+Please respect each other&#039;s thoughts and opinions. Profanity will not be tolerated.</description>
+ <category domain="https://www.sei-cpp.com/ja/taxonomy/term/7">Company Forums</category>
+ <pubDate>Tue, 10 Jun 2008 10:25:19 -0700</pubDate>
+ <dc:creator>root</dc:creator>
+ <guid isPermaLink="false">2526 at https://www.sei-cpp.com</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://www.sei-cpp.com"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Software Engineering Institute - CPP Alumni Forums</title>
+ <link>https://www.sei-cpp.com/ja/taxonomy/term/9/0</link>
+ <description>Forums for CPP Alumni</description>
+ <language>ja</language>
+<item>
+ <title>*STICKY* Rules of the CPP Alumni Forums</title>
+ <link>https://www.sei-cpp.com/ja/forums/sticky-rules-cpp-alumni-forums</link>
+ <description>&lt;p&gt;Only authorized company users are able to post in this forum.&lt;br /&gt;
+Any unauthorized users or posts will be deleted.&lt;/p&gt;
+&lt;p&gt;Please respect each other&#039;s thoughts and opinions. Profanity will not be tolerated.&lt;/p&gt;</description>
+ <comments>https://www.sei-cpp.com/ja/forums/sticky-rules-cpp-alumni-forums#comments</comments>
+ <category domain="https://www.sei-cpp.com/ja/taxonomy/term/9">CPP Alumni Forums</category>
+ <pubDate>Mon, 09 Jun 2008 01:37:12 -0700</pubDate>
+ <dc:creator>root</dc:creator>
+ <guid isPermaLink="false">2515 at https://www.sei-cpp.com</guid>
+</item>
+<item>
+ <title>カリ・ポリの同窓生のフォラムです。</title>
+ <link>https://www.sei-cpp.com/ja/forums</link>
+ <description>&lt;p&gt;ようこそ　カリ・ポリの同窓生のフォラムへ！&lt;/p&gt;
+&lt;p&gt;カリ・ポリでの経験など、思い出でも、なんでも、いいですから、&lt;/p&gt;
+&lt;p&gt;書いてください。　一色。&lt;/p&gt;</description>
+ <comments>https://www.sei-cpp.com/ja/forums#comments</comments>
+ <category domain="https://www.sei-cpp.com/ja/taxonomy/term/9">CPP Alumni Forums</category>
+ <pubDate>Thu, 10 Jul 2008 20:46:03 -0700</pubDate>
+ <dc:creator>root</dc:creator>
+ <guid isPermaLink="false">2620 at https://www.sei-cpp.com</guid>
+</item>
+</channel>
+</rss>
